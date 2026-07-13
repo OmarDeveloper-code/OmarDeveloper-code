@@ -1,7 +1,6 @@
 # Hi there! I'm Omar Andrés Rodriguez Sierra 👋
 
 
-![image alt] (https://github.com/OmarDeveloper-code/OmarDeveloper-code/blob/fff7806afd068a67d663edd7c64f29844b9ba015/oso%20programing.png)
   
   ### Full Stack Developer | Systems Engineer
 </div>
