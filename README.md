@@ -8,10 +8,10 @@
 
 ---
 
-## About Me
+### 👨🏻‍💻 &nbsp;About Me
 I am **Omar Andrés Rodríguez Sierra**, a Systems Engineer and Full Stack Developer. I am passionate about building robust, scalable, and efficient web applications.
 
-I focus on creating high-quality software with a great user experience (UX), always following best practices in modern web development.
+I focus on creating high-quality software with a great user experience (UX), always following best practices in web development.
 
 ---
 
@@ -38,7 +38,24 @@ I focus on creating high-quality software with a great user experience (UX), alw
   ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![POSTGRESQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
-  
+
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/OmarDeveloper-code">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=OmarDeveloper-code&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/OmarDeveloper-code">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=OmarDeveloper-code&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github.com/OmarDeveloper-code/OmarDeveloper-code/raw/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+</p>
+
 ---
 
 ## Let's Connect
@@ -48,9 +65,6 @@ Feel free to reach out for collaborations or just to say hi!
 - 💼 **LinkedIn:** https://www.linkedin.com/in/omar-developer
 - 🌐 **Portfolio:** https://portafolio-omar-beta.vercel.app/
 
----
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
+
 
